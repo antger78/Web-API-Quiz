@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+
+#intro-text{
+    text-align: center;
+}
+
+#start-quiz-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#start-quiz-button-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#highscore-link{
+    display: flex;
+    color: pink;
+}
+
+#timer{
+    display: flex;
+}
