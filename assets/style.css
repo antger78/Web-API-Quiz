@@ -26,3 +26,11 @@ h1{
 #timer{
     display: flex;
 }
+
+.questions{
+    display: none;
+}
+
+.choices button{
+    display: block;
+}
